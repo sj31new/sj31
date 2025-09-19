@@ -1,5 +1,5 @@
 # sj31
-About Me
+**About Me**
 Hi, I'm SJ! 👋
 Business Analyst | Lifelong Learner
 I'm a Business Analyst with 5 years of experience helping teams translate complex business needs into clear, actionable solutions. My goal is to bridge the gap between business stakeholders and technical teams to build products that truly solve problems.
